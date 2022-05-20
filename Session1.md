@@ -18,19 +18,49 @@
 
 #### Übung Formen & Farben: Baue die folgende Grafik von Vera Molnár möglichst originalgetreu in p5.js: 
 [Vera Molnar, Plotterzeichung, Ohne Titel, 1984](https://damprojects.org/wp-content/uploads/2019/09/Molnar-scan_84.jpg)
+##### Fortgeschritten: 
+* Wie kannst du die Grafik interaktiv machen? 
+	* Anhaltspunkte: 
+		* [Maus-Position](https://p5js.org/reference/#/p5/mouseX)
+		* [Keyboard-Input](https://p5js.org/examples/input-keyboard.html) 
 
 ### Zufallswerte und for-Loops
 * [Random-Werte in p5.js](https://p5js.org/examples/arrays-array.html)
 * [for-loops](https://p5js.org/reference/#/p5/for)
+* [Verschachtelte for-loops](https://www.youtube.com/watch?v=FAVvj1M6klc)
 
 #### Übung Vera Molnár II: Baue jetzt die Grafik nach, die du heute Vormittag bereits beschrieben hast. Alternativ: Baue die Grafik nach, die dir beschrieben wurde. 
+##### Fortgeschritten: 
+* Baue eine Rotation ein
+	* Anhaltspunkte: 
+		* [Coding-Train: Transformations](https://www.youtube.com/watch?v=o9sgjuh-CBM)
+		* [Rotation](https://p5js.org/reference/#/p5/rotate)
+		* [push & pop Matrix](https://p5js.org/reference/#/p5/push)
+
+* Wie kannst du die Grafik interaktiv machen? 
+	* Anhaltspunkte: 
+		* [Maus-Position](https://p5js.org/reference/#/p5/mouseX)
+		* [Maus-Klick](https://p5js.org/reference/#/p5/mouseClicked)
+		* [Keyboard-Input](https://p5js.org/examples/input-keyboard.html) 
+		* [Random-Seed](https://p5js.org/reference/#/p5/randomSeed) 
 
 ### Weitere Formen & Farben
 * [2D-Primitive Shapes in p5.js](https://p5js.org/reference/)
-* [Farben in p5.js](https://p5js.org/reference/#/p5/color)
 * [Arrays in p5.js](https://p5js.org/examples/arrays-array.html)
 
 #### Übung Vera Molár III: Erstelle eine eigene Komposition auf Grundlage deiner Komposition aus Übung II. Die Komposition soll sich dabei bei jeder Generierung verändern. 
+##### Fortgeschritten:
+* Wie kannst du die Grafik interaktiv machen? 
+	* Anhaltspunkte: 
+		* [Maus-Position](https://p5js.org/reference/#/p5/mouseX)
+		* [Maus-Klick](https://p5js.org/reference/#/p5/mouseClicked)
+		* [Keyboard-Input](https://p5js.org/examples/input-keyboard.html) 
+		* [Random-Seed](https://p5js.org/reference/#/p5/randomSeed) 
+* Wie kannst du die Grafik über die Zeit verändern? 
+	* Anhaltspunkte: 
+		* [Millis()](https://p5js.org/reference/#/p5/millis)
+		* [Sinus](https://p5js.org/reference/#/p5/sin)
+		* [Cosinus](https://p5js.org/reference/#/p5/cos)
 
 
 ## Weiterführende Tutorials
