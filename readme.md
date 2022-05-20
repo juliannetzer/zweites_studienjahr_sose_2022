@@ -4,3 +4,11 @@
 * Session 2 (27.05): Generatives Leveldesign I - Perlin Noise
 * Session 3 (03.06.): Generatives Leveldesign II - Game Of Life
 * Session 4 (10.06.): Übung: Erstellung eines eigenes Leveldesigns 
+
+# Weiterführende Links: 
+* [Buch Nature Of Code](https://natureofcode.com/)
+* [Website Generative Gestaltung](http://www.generative-gestaltung.de/2/)
+* [Buch Generative Gestaltung](https://typografie.de/produkt/generative-gestaltung-creative-coding-im-web/)
+* [algorithmic clichés](https://github.com/dennisppaul/algorithmic-cliches)
+* [FunProgramming](https://funprogramming.org/)
+* [Text: Kate Crawford - So you want to build a generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
