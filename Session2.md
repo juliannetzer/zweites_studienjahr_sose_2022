@@ -37,8 +37,7 @@ Mögliche Lösung:
 https://editor.p5js.org/netzerjulian/sketches/aldzmMFMW
 
 Fortgeschritten: 
-* Wie kannst du das statische Noise in Bewegung bringen? 
-* Wie kannst du das Noise interaktiv machen? Z.B. eine Bewegung einbauen, wenn man die Pfeiltasten drückt? 
+* Übung 1.3 
 
 ### Übung 1.3: Kolorierung
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_3_Perlin_Noise.jpg)
@@ -63,12 +62,21 @@ Füge in deine Karte zusätzliche Objekte ein, die nur an bestimmten Stellen auf
 Mögliche Lösung: 
 https://editor.p5js.org/netzerjulian/sketches/-Y6FGKc20
 
+Fortgeschritte: 
+Gehe direkt zur nächste Aufgabe. 
+
 ***
 ***
 
 ## Aufgabe: 
 Erstelle mindestens einen Level/Landkarten-Generator basierend auf Perlin Noise. Auf der Karte sollen verschiedene Objekte zu finden sein.
 Abgabe: Exportiere mindestens 10 Variationen in .jpg-Dateien mit mindestens 2000x3000px. Lade die jpg-Dateien zusammen mit einer Text-Datei, in der sich ein Link zu deinem Sketch befindet, in die Nextcloud (Link auf Incom).
+
+Fortgeschritten: 
+* Wie kannst du die Objekte unterschiedlich groß machen? 
+* Baue Regler ein, um den Generator zu steuern 
+* Wie kannst du die Karte interaktiv machen? z.B. ein Scroll-Effekt bei einer Bewegung mit der Maus.
+* Wie kannst du einzelne Elemente auf der Karte animieren? z.B. das Wasser? 
 
 Beispiel:
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap.jpg)
