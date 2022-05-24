@@ -1,12 +1,15 @@
 # 27.05.2022 - Noise
 
-## Noise in generativer Gestaltung 
+## Generative Landschaften 
 
-* [Studio Joanie Lemercier](https://joanielemercier.com/lamontagne/)
+* [Studio Joanie Lemercier - La Montagne](https://joanielemercier.com/lamontagne/)
+* [Memo Akten & Daniel Berio- Bozork Quest: In search for the lost Stroompang](https://vimeo.com/113106061)
+* [Inconvergent - Isopleth](https://inconvergent.net/app/isopleth/)
+* [Big Robot - British Countryside Generator](https://bldgblog.com/2013/04/british-countryside-generator/)
+* [Molleindustria - Lichenia](https://molleindustria.org/lichenia/)
 
 
-
-## Perlin Noise - 10,000 Bowls of Oatmeal
+## Perlin Noise & 10,000 Bowls of Oatmeal
 * [Ken Perlin](https://de.wikipedia.org/wiki/Ken_Perlin)
 * [Text: Kate Crawford - So you want to build a generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 
