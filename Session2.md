@@ -83,6 +83,8 @@ Fortgeschritten:
 
 Beispiel:
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap.jpg)
+![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap2.jpg)
+
 
 
 
