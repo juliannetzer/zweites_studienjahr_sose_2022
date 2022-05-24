@@ -55,6 +55,19 @@ https://editor.p5js.org/netzerjulian/sketches/y3PleIsTD
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/Maps/maps_5.jpg)
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/Maps/maps_6.jpg)
 
+### Übung 1.4: Zusätzliche Objekte/Grafiken
+![Noise 1.4](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_4_Objekte.jpg)
+
+Füge in deine Karte zusätzliche Objekte ein, die nur an bestimmten Stellen auf der Karte erscheinen. Du kannst die Objekte z.B. mit einem 8-Bit Grafikgenerator (https://make8bitart.com/) erstellen. 
+
+Mögliche Lösung: 
+https://editor.p5js.org/netzerjulian/sketches/-Y6FGKc20
+
+
+## Aufgabe: Erstelle mindestens einen Level/Landkarten-Generator basierend auf Perlin Noise. Auf der Karte sollen verschiedene Objekte zu finden sein. Exportiere mindestens 10 Variationen in .jpg-Datei mit mindestens 2000x3000px. Lade die jpg-Dateien zusammen mit einer Text-Datei in der sich ein Link zu deinem Sketch befindet auf den Link, den du in Incom findest. 
+
+Beispiel:
+![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap.jpg)
 
 
 
