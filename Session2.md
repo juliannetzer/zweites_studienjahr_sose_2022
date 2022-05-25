@@ -1,12 +1,18 @@
 # 27.05.2022 - Noise
 
-## Generative Landschaften 
 
+## Referenzen Perlin Noise & Generative Landschaften 
+
+* [Vera Molnàr - Sainte Victoire](https://dam.org/museum/artists_ui/artists/molnar-vera/sainte-victoire/)
+* [Procedural generation in videos games history](https://en.wikipedia.org/wiki/Procedural_generation#Early_history)
+* [List of games using procedural generation](https://en.wikipedia.org/wiki/List_of_games_using_procedural_generation)
 * [Studio Joanie Lemercier - La Montagne](https://joanielemercier.com/lamontagne/)
 * [Memo Akten & Daniel Berio- Bozork Quest: In search for the lost Stroompang](https://vimeo.com/113106061)
 * [Inconvergent - Isopleth](https://inconvergent.net/app/isopleth/)
 * [Big Robot - British Countryside Generator](https://bldgblog.com/2013/04/british-countryside-generator/)
 * [Molleindustria - Lichenia](https://molleindustria.org/lichenia/)
+* [Pac-Man Maze Generation](https://shaunlebron.github.io/pacman-mazegen/)
+* [Use of Noise in Shaders](https://thebookofshaders.com/11/)
 
 
 ## Perlin Noise & 10,000 Bowls of Oatmeal
@@ -76,14 +82,18 @@ Erstelle mindestens einen Level/Landkarten-Generator basierend auf Perlin Noise.
 Abgabe: Exportiere mindestens 10 Variationen in .jpg-Dateien mit mindestens 2000x3000px. Lade die jpg-Dateien zusammen mit einer Text-Datei, in der sich ein Link zu deinem Sketch befindet, in die Nextcloud (Link auf Incom).
 
 Fortgeschritten: 
-* Wie kannst du die Objekte unterschiedlich groß machen? 
-* Baue Regler ein, um den Generator zu steuern 
+* Baue Regler ein, um den Generator zu steuern
+* Baue einen Character ein, der sich auf dem Terrain bewegen kann. 
+* Variiere die Objekte: Wie kannst du die Objekte unterschiedlich groß machen? Wie kannst du aus einem Pool aus Objekten immer ein Objekt auswählen? 
+* Wie kannst du Wolken einfügen? Mit einer zweiten Perlin-Noise Ebene? 
 * Wie kannst du die Karte interaktiv machen? z.B. ein Scroll-Effekt bei einer Bewegung mit der Maus.
 * Wie kannst du einzelne Elemente auf der Karte animieren? z.B. das Wasser? 
 
 Beispiel:
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap.jpg)
 ![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap2.jpg)
+![Noise 1.3](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielMap3.jpg)
+
 
 
 
