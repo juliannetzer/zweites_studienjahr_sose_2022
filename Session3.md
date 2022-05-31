@@ -14,10 +14,11 @@
 * [Life Wiki](https://conwaylife.com/wiki/)
 
 
-### Übung 1.1: Wolfram Automat
+### Übung 1.1: Wolfram-Automat
 ![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_1.jpg)
 ![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_2.jpg)
 ![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_3.jpg)
+![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_4.jpg)
 
 Erstelle einen einfachen Wolfram Automaten, verändere die Regeln und schau wie sich das Ergebnis verändert.
 
