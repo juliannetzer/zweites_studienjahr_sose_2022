@@ -38,10 +38,10 @@ Fortgeschritten:
 Mögliche Lösung: https://editor.p5js.org/netzerjulian/sketches/4K7vkUY8y
 
 ### Übung 1.2: Wolfram-Automat
-![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_1.jpg)
-![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_2.jpg)
-![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_3.jpg)
-![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_4.jpg)
+![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_2_wolfram_1.jpg)
+![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_2_wolfram_2.jpg)
+![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_2_wolfram_3.jpg)
+![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_2_wolfram_4.jpg)
 
 Erweitere deinen Automaten jetzt, indem du die Zahl der Startzellen variabel machst und diese zu Beginn zufällig füllst. Verändere auch jetzt wieder die Regeln und beobachte wie sich das Ergebnis verändert.
 Erstellen mindestens 5 Variationen und lade sie auf die Nextcloud. 
