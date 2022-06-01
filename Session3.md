@@ -1,17 +1,18 @@
 # 03.06.2022 - Zelluläre Automaten 
 
 
-## Referenzen Emergenz/ Zelluläre Automaten/ Game of Life 
+## Referenzen Emergenz/ Zelluläre Automaten
 
 * [Wikipedia: Emergenz](https://de.wikipedia.org/wiki/Emergenz)
 * [Wikipedia: Zelluläre Automaten](https://de.wikipedia.org/wiki/Zellulärer_Automat)
 * [Coding Train](https://natureofcode.com/book/chapter-7-cellular-automata/)
 * [Stephen Wolfram's A New Kind of Sciene](https://www.wolframscience.com/nks/)
+* [Stephen Wolfram's Classification of Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton#Classification)
 * [Troika: Hierophany](http://troika.uk.com/work/troika-hierophany/)
 * [Troika: Calculating the Universe](http://troika.uk.com/work/troika-calculating-the-universe/)
-* [Wikipedia: Conway's Game of Life](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens)
-* [New York Times: The Lasting Lessons of John Conway's Game of Life](https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html)
-* [Life Wiki](https://conwaylife.com/wiki/)
+* [Rule 30](https://en.wikipedia.org/wiki/Rule_30)
+
+
 
 ### Übung 1.1: Einfacher Wolfram-Automat
 ![Wolfram1](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/1_1_wolfram_1.jpg)
@@ -23,13 +24,15 @@ Erstelle einen einfachen Zellulären Automaten (Wolfram Automat), mit 10 Startze
 
 Die Regeln sind dabei wie folgt: 
 - wenn die aktuelle Zelle und die beiden benachbarten Zellen weiß sind, dann färbe die Zelle schwarz
-- wenn nur die aktuelle und die linke Nachbarzelle weiß sind, dann belasse die Zelle weiß
+- wenn nur die aktuelle und die linke Nachbarzelle weiß sind, dann färbe die Zelle schwarz
 - wenn beide Nachbarn weiß sind, aber die aktuelle Zelle schwarz ist, dann belasse sie schwarz
 - wenn die aktuelle Zelle und die rechte Nachbarzelle schwarz sind, und die linke Zelle weiß, dann färbe sie weiß
 - wenn die aktuelle Zelle und die rechte Nachbarzelle weiß sind, aber die linke Nachbarzelle schwarz ist, belasse sie weiß 
-- wenn die aktuelle Zelle weiß ist und die benachbarten schwarz, dann färbe sie schwarz 
+- wenn die aktuelle Zelle weiß ist und die benachbarten schwarz, dann belasse sie weiß 
 - wenn die aktuelle und die linke Nachbarzelle schwarz sind, die rechte weiß, dann färbe die Zelle weiß 
 - wenn die aktuelle und beide benachbarten Zellen schwarz sind, belasse die Zelle schwarz 
+
+siehe dazu auch [Rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
 
 Fortgeschritten: 
@@ -52,6 +55,13 @@ Fortgeschritten:
 * Kannst du auch Regeln erstellen, die auf mehr als drei nebeneinander liegende Zellen einen Einfluss haben? 
 
 Mögliche Lösung: https://editor.p5js.org/netzerjulian/sketches/Qy670u-3P
+
+## Referenzen Game of Life
+
+* [Wikipedia: Conway's Game of Life](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens)
+* [New York Times: The Lasting Lessons of John Conway's Game of Life](https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html)
+* [Life Wiki](https://conwaylife.com/wiki/)
+* [The Game of Life - Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
 
 ### Übung 2.1: Game of Life
 Öffne die Game of Life Online-Anwendung: https://playgameoflife.com/
