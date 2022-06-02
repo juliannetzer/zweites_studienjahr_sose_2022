@@ -61,8 +61,9 @@ Mögliche Lösung: https://editor.p5js.org/netzerjulian/sketches/Qy670u-3P
 * [Wikipedia: Conway's Game of Life](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens)
 * [New York Times: The Lasting Lessons of John Conway's Game of Life](https://www.nytimes.com/2020/12/28/science/math-conway-game-of-life.html)
 * [Life Wiki](https://conwaylife.com/wiki/)
+* [Alan Zucconi: Game of Life Documentary](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
 * [The Game of Life - Emergence in Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
-
+* [Zelluläres Design in 3D](https://thedifferentdesign.com/downloads/category/pattern/)
 ### Übung 2.1: Game of Life
 Öffne die Game of Life Online-Anwendung: https://playgameoflife.com/
 
