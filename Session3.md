@@ -109,7 +109,9 @@ Beispiele:
 	* [Beispielbild Maulwurf](https://www.ndr.de/ratgeber/verbraucher/maulwurf178_v-fullhd.jpg)
 * Erstelle Texture mit dem 8-Bit-Grafik-Generator 
 
-Beispiel mit Game of Life Algorithmus: https://editor.p5js.org/netzerjulian/sketches/yqDpatvnx
+Beispiele mit Game of Life Algorithmus:
+* https://editor.p5js.org/netzerjulian/sketches/yqDpatvnx
+* https://editor.p5js.org/netzerjulian/sketches/_kEJm2uDa
 
 ![Zellulärer Automat](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielCellular1.jpg)
 ![Zellulärer Automat](https://github.com/juliannetzer/zweites_studienjahr_sose_2022/blob/main/assets/BeispielCellular2.jpg)
